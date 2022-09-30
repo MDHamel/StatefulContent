@@ -1,2 +1,2 @@
 # Stateful Content
-A simple React project to demonstrate how to use React states to laod content on a webpage.
+A project to demonstrate the use of React states to load content for a webpage.
